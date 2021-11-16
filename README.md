@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @prince sanjeev sr
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning BICT, Specialization in Software Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 prince-s-raj/prince-s-raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
