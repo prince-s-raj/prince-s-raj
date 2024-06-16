@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @prince sanjeev sr
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning BICT, Specialization in Software Technology
+- 👋 Hi, I’m Sanjeevraj Muruganathan
+- 👨‍💻 MERN stack || Java || C#.Net
+- 👨‍🎓 BICT (hons) in Software Technologies
 
 
 <!---
